@@ -21,4 +21,5 @@ The **completed** Unity projects for each example can be found in their own repo
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch12-06b-waypoints-yellow-brick-road
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch12-06c-waypoint-class-flexibility
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch12-07-moving-navmesh-obstacle
-- 
+- https://github.com/dr-matt-smith/unity-cookbook-2023-ch12-08-navmesh-surfaces
+- https://github.com/dr-matt-smith/unity-cookbook-2023-ch12-09-navmesh-links-non-horizonal-surfaces
